@@ -34,9 +34,7 @@ Hi there! I'm **Terez9**, a passionate validator, guide writer, and developer. M
 
 ## My Contributions
 
-Here, you'll find repositories that showcase my work as a validator, guide writer, and developer. Some of my notable contributions include:
-
-- [**Validator Scripts**](#): Scripts to automate and optimize the management of validator nodes.
-- [**Guides and Tutorials**](#): A collection of guides I've written to help others get started with blockchain technologies.
-- [**Open Source Contributions**](#): Code contributions to various open-source projects.
+- [**0g storage node guide**](https://github.com/Terez9/0g-labs-guides/blob/main/0g-storage-node-guide)
+- [**0g da retriever guide**](https://github.com/Terez9/0g-labs-guides/blob/main/0g-da-retriever-guide)
+- [**Side Protocol Install Node Guide**]()
 
