@@ -6,6 +6,23 @@
   </tr>
 </table>
 
+<table align=center border=10 padding=0>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/128b9266-a409-462c-a441-15f6a225755a" margin=0 width=100>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/95aa5989-6e19-49cc-b1b7-202990a75153" margin=0 width=100>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/28caea93-9325-4feb-b0b2-bbe9ef97154d" margin=0 width=100>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c8fa822b-64ce-4492-bbee-050c8e6c6e0a" margin=0 width=100>
+    </td>
+  </tr>
+</table>
+
 ## About Me
 
 Hi there! I'm **Terez9**, a passionate validator, guide writer, and developer. My journey in the blockchain and tech world is fueled by curiosity and a drive to contribute to cutting-edge projects. Whether it's running a validator node in testnets, crafting detailed guides for the community, or coding solutions, I am always eager to learn and share my knowledge.
