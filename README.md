@@ -1,5 +1,13 @@
 # Welcome to Terez9's GitHub! 👋
 
+<table align=center border=10>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2bc71f16-0d3d-460b-9205-4c7b052cc930" >
+    </td>
+  </tr>
+</table>
+
 ## About Me
 
 Hi there! I'm **Terez9**, a passionate validator, guide writer, and developer. My journey in the blockchain and tech world is fueled by curiosity and a drive to contribute to cutting-edge projects. Whether it's running a validator node in testnets, crafting detailed guides for the community, or coding solutions, I am always eager to learn and share my knowledge.
