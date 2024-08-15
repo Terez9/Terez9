@@ -1,7 +1,7 @@
 <table align=center border=10 padding=0>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/2bc71f16-0d3d-460b-9205-4c7b052cc930" >
+      <img src="https://github.com/user-attachments/assets/2bc71f16-0d3d-460b-9205-4c7b052cc930" margin=0>
     </td>
   </tr>
 </table>
