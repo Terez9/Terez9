@@ -36,5 +36,5 @@ Hi there! I'm **Terez9**, a passionate validator, guide writer, and developer. M
 
 - [**0g storage node guide**](https://github.com/Terez9/0g-labs-guides/blob/main/0g-storage-node-guide)
 - [**0g da retriever guide**](https://github.com/Terez9/0g-labs-guides/blob/main/0g-da-retriever-guide)
-- [**Side Protocol Install Node Guide**]()
+- [**Side Protocol Install Node Guide**](https://github.com/Terez9/Side-Protocol-Install-Node-Guide)
 
