@@ -23,6 +23,11 @@
   </tr>
 </table>
 
+- **Warden Protocol:** wardenvaloper1x664redg8ek5dsufpfmwn7npc2hn8zywt43ydf
+- **Lava:** lava@valoper1g5hagulyqfwztuspw6ep4gz08yuwjft90j6lty
+- **Side Protocol:** sidevaloper10j5t9i387fv9j80r3rcl9zqeylg22jt4fh7kg4
+- **Nillion:** nillionvaloper1l7llrjdwsqlku5e9wwk7nq6ucsehgu59d5jcen
+
 ## About Me
 
 Hi there! I'm **Terez9**, a passionate validator, guide writer, and developer. My journey in the blockchain and tech world is fueled by curiosity and a drive to contribute to cutting-edge projects. Whether it's running a validator node in testnets, crafting detailed guides for the community, or coding solutions, I am always eager to learn and share my knowledge.
