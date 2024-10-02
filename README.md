@@ -21,6 +21,15 @@
       <img src="https://github.com/user-attachments/assets/c8fa822b-64ce-4492-bbee-050c8e6c6e0a" margin=0 width=100>
     </td>
   </tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/56a880f9-738f-4419-bc62-594044fab3ca" margin=0 width=100>
+    </td>
+      <td>
+      <img src="https://github.com/user-attachments/assets/f1573a9e-dc1f-4a0a-8f7b-32bfa93a10a5" margin=0 width=100>
+    </td>
+      <td>
+      <img src="https://github.com/user-attachments/assets/9eff4637-4153-4912-ad41-367c52022fab" margin=0 width=100>
+    </td>
 </table>
 
 - **Warden Protocol:** wardenvaloper1x664redg8ek5dsufpfmwn7npc2hn8zywt43ydf
@@ -34,7 +43,7 @@ Hi there! I'm **Terez9**, a passionate validator, guide writer, and developer. M
 
 ## My Contributions
 
+- [**Fairblock Setup Guide**](https://github.com/Terez9/Fairblock-Setup-Guide)
+- [**Side Protocol Install Node Guide**](https://github.com/Terez9/Side-Protocol-Install-Node-Guide)
 - [**0g storage node guide**](https://github.com/Terez9/0g-labs-guides/blob/main/0g-storage-node-guide)
 - [**0g da retriever guide**](https://github.com/Terez9/0g-labs-guides/blob/main/0g-da-retriever-guide)
-- [**Side Protocol Install Node Guide**](https://github.com/Terez9/Side-Protocol-Install-Node-Guide)
-
